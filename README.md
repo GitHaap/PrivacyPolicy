@@ -3,4 +3,7 @@
 ## StockReview
 - US
 https://githaap.github.io/PrivacyPolicy/PrivecyPolicy_US_StockReview.html
-- JP
+
+## GoodSleeperz
+- US
+https://githaap.github.io/PrivacyPolicy/PrivacyPolicy_US_GoodSleeperz.html
