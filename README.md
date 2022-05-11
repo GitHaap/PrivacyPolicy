@@ -11,3 +11,7 @@ https://githaap.github.io/PrivacyPolicy/PrivacyPolicy_US_GoodSleeperz.html
 ## Whipper
 - US
 https://githaap.github.io/PrivacyPolicy/PrivacyPolicy_US_Whipper.html
+
+## Itzcl
+- US
+https://githaap.github.io/PrivacyPolicy/PrivacyPolicy_US_Itzcl.html
